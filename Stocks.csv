@@ -1,0 +1,308 @@
+Symbol,Name,Symbol,Price,Change,ATL,ATH,Dif,ATD-Diff,ATH-Diff,cap
+AMZN,"Amazon.com, Inc.","AMAZON.COM, INC. (XNAS:AMZN)","3,023.87",32.4," $2,707.04 "," $3,773.08 ", $749.21 ,12%,25%,
+GOOG,Alphabet Inc.,ALPHABET INC. (XNAS:GOOG),"2,757.57",43.6," $1,850.93 "," $3,037.00 ", $279.43 ,49%,10%,
+GOOGL,Alphabet Inc.,ALPHABET INC. (XNAS:GOOGL),"2,752.88",46.81," $1,844.59 "," $3,019.33 ", $266.45 ,49%,10%,
+BKNG,Booking Holdings Inc.,BOOKING HOLDINGS INC. (XNAS:BKNG),"2,465.64",9.51," $1,965.00 "," $2,687.29 ", $221.65 ,25%,9%,
+CMG,"Chipotle Mexican Grill, Inc.","CHIPOTLE MEXICAN GRILL, INC. (XNYS:CMG)","1,512.45",26.87," $1,256.27 "," $1,958.55 ", $446.10 ,20%,29%,
+MELI,"MercadoLibre, Inc.","MERCADOLIBRE, INC. (XNAS:MELI)","1,138.11",6.05, $957.60 ," $2,006.71 ", $868.60 ,19%,76%,
+SHOP,Shopify Inc.,SHOPIFY INC. (XNYS:SHOP),984.2,19.96, $780.00 ," $1,762.92 ", $778.72 ,26%,79%,
+BLK,"BlackRock, Inc.","BLACKROCK, INC. (XNYS:BLK)",825.95,3.01, $670.28 , $973.16 , $147.21 ,23%,18%,
+ASML,ASML Holding N.V.,ASML Holding NV (XNAS:ASML),681.48,4.28, $501.11 , $895.93 , $214.45 ,36%,31%,
+ORLY,"O'Reilly Automotive, Inc.","O'Reilly Automotive, Inc. (XNAS:ORLY)",656.99,5.24, $425.49 , $710.86 , $53.87 ,54%,8%,
+TDG,TransDigm Group Incorporated,TRANSDIGM GROUP INCORPORATED (XNYS:TDG),624.48,8.29, $552.72 , $688.03 , $63.55 ,13%,10%,
+REGN,"Regeneron Pharmaceuticals, Inc.","REGENERON PHARMACEUTICALS, INC. (XNAS:REGN)",613.36,4.77, $441.00 , $686.62 , $73.26 ,39%,12%,
+SIVB,SVB Financial Group,SVB FINANCIAL GROUP (XNAS:SIVB),605.88,21.98, $438.03 , $763.22 , $157.34 ,38%,26%,
+CHTR,"Charter Communications, Inc.","CHARTER COMMUNICATIONS, INC. (XNAS:CHTR)",596.89,3.55, $549.59 , $825.62 , $228.73 ,9%,38%,
+TMO,Thermo Fisher Scientific Inc.,THERMO FISHER SCIENTIFIC INC. (XNYS:TMO),594.31,13.01, $433.52 , $672.34 , $78.03 ,37%,13%,
+AVGO,Broadcom Inc.,Broadcom Inc. (XNAS:AVGO),592.72,6.84, $419.14 , $677.76 , $85.04 ,41%,14%,
+INTU,Intuit Inc.,INTUIT INC. (XNAS:INTU),560.83,5.6, $364.59 , $716.86 , $156.03 ,54%,28%,
+MSCI,MSCI Inc.,MSCI INC. (XNYS:MSCI),545.4,9.28, $400.01 , $679.85 , $134.45 ,36%,25%,
+IDXX,"IDEXX Laboratories, Inc.","IDEXX LABORATORIES, INC. (XNAS:IDXX)",513.51,6.21, $460.36 , $706.95 , $193.44 ,12%,38%,
+ALGN,"Align Technology, Inc.","ALIGN TECHNOLOGY, INC. (XNAS:ALGN)",508.56,13.6, $432.09 , $737.45 , $228.89 ,18%,45%,
+COST,Costco Wholesale Corporation,COSTCO WHOLESALE CORPORATION (XNAS:COST),508.41,3.28, $307.00 , $571.49 , $63.08 ,66%,12%,
+EPAM,"EPAM Systems, Inc.","EPAM SYSTEMS, INC. (XNYS:EPAM)",484.36,8.22, $338.69 , $725.40 , $241.04 ,43%,50%,
+DPZ,"Domino's Pizza, Inc.","DOMINO'S PIZZA, INC. (XNYS:DPZ)",458.3,3.65, $319.71 , $567.57 , $109.27 ,43%,24%,
+NFLX,"Netflix, Inc.","NETFLIX, INC. (XNAS:NFLX)",457.13,29.99, $351.46 , $700.99 , $243.86 ,30%,53%,
+NFLX,"Netflix, Inc.","NETFLIX, INC. (XNAS:NFLX)",457.13,29.99, $351.46 , $700.99 , $243.86 ,30%,53%,
+ROP,"Roper Technologies, Inc.","ROPER TECHNOLOGIES, INC. (XNYS:ROP)",441.99,4.83, $365.23 , $505.00 , $63.01 ,21%,14%,
+DXCM,"DexCom, Inc.","DEXCOM, INC. (XNAS:DXCM)",435.04,4.56, $318.45 , $659.45 , $224.41 ,37%,52%,
+SAM,"The Boston Beer Company, Inc.","THE BOSTON BEER COMPANY, INC. (XNYS:SAM)",425.07,4.24, $406.68 ," $1,349.98 ", $924.91 ,5%,218%,
+RH,RH,RH (XNYS:RH),412.28,9.46, $362.00 , $744.56 , $332.28 ,14%,81%,
+MDB,"MongoDB, Inc.","MONGODB, INC. (XNAS:MDB)",411.15,6.04, $238.01 , $590.00 , $178.85 ,73%,43%,
+MPWR,"Monolithic Power Systems, Inc.","MONOLITHIC POWER SYSTEMS, INC. (XNAS:MPWR)",406.34,3.41, $301.51 , $580.00 , $173.66 ,35%,43%,
+TECH,Bio-Techne Corporation,BIO-TECHNE CORPORATION (XNAS:TECH),401.57,25.16, $328.20 , $543.85 , $142.28 ,22%,35%,
+WST,"West Pharmaceutical Services, Inc.","WEST PHARMACEUTICAL SERVICES, INC. (XNYS:WST)",397.24,4.02, $253.86 , $475.35 , $78.11 ,56%,20%,
+MA,Mastercard Incorporated,MASTERCARD INCORPORATED. (XNYS:MA),392.06,5.68, $306.00 , $401.50 , $9.44 ,28%,2%,
+MA,Mastercard Incorporated,MASTERCARD INCORPORATED. (XNYS:MA),392.06,5.68, $306.00 , $401.50 , $9.44 ,28%,2%,
+MSTR,MicroStrategy Incorporated,MICROSTRATEGY INCORPORATED (XNAS:MSTR),373,4.99, $307.19 ," $1,315.00 ", $942.00 ,21%,253%,
+ULTA,"Ulta Beauty, Inc.","ULTA BEAUTY, INC. (XNAS:ULTA)",372.32,8.58, $276.00 , $422.43 , $50.11 ,35%,13%,
+GS,"The Goldman Sachs Group, Inc.","THE GOLDMAN SACHS GROUP, INC. (XNYS:GS)",364.06,9.38, $272.00 , $426.16 , $62.10 ,34%,17%,
+ILMN,"Illumina, Inc.","ILLUMINA, INC. (XNAS:ILMN)",356.45,7.63, $318.07 , $555.77 , $199.32 ,12%,56%,
+MKTX,MarketAxess Holdings Inc.,MARKETAXESS HOLDINGS INC. (XNAS:MKTX),350.72,6.24, $321.17 , $589.25 , $238.53 ,9%,68%,
+LULU,Lululemon Athletica Inc.,LULULEMON ATHLETICA INC. (XNAS:LULU),344.91,11.15, $269.28 , $485.83 , $140.92 ,28%,41%,
+CRL,"Charles River Laboratories International, Inc.","CHARLES RIVER LABORATORIES INTERNATIONAL, INC. (XNYS:CRL)",335.49,5.73, $259.02 , $460.21 , $124.72 ,30%,37%,
+URI,"United Rentals, Inc.","UNITED RENTALS, INC. (XNYS:URI)",330.01,9.89, $245.00 , $414.99 , $84.98 ,35%,26%,
+DECK,Deckers Outdoor Corporation,DECKERS OUTDOOR CORPORATION (XNYS:DECK),329.26,9.03, $289.23 , $451.49 , $122.23 ,14%,37%,
+WAT,Waters Corporation,WATERS CORPORATION (XNYS:WAT),323.72,3.6, $258.91 , $428.22 , $104.50 ,25%,32%,
+FB,"Meta Platforms, Inc.","Meta Platforms, Inc. (XNAS:FB)",319,5.74, $253.50 , $384.33 , $65.33 ,26%,20%,
+FB,"Meta Platforms, Inc.","Meta Platforms, Inc. (XNAS:FB)",319,5.74, $253.50 , $384.33 , $65.33 ,26%,20%,
+SBNY,Signature Bank,Signature Bank (XNAS:SBNY),318.63,14, $161.54 , $374.76 , $56.13 ,97%,18%,
+PH,Parker-Hannifin Corporation,PARKER-HANNIFIN CORPORATION (XNYS:PH),317.21,7.2, $263.59 , $334.98 , $17.77 ,20%,6%,
+EL,The Estée Lauder Companies Inc.,THE ESTEE LAUDER COMPANIES INC. (XNYS:EL),315.02,3.23, $237.73 , $374.20 , $59.18 ,33%,19%,
+AMP,"Ameriprise Financial, Inc.","AMERIPRISE FINANCIAL, INC. (XNYS:AMP)",308.1,3.79, $196.77 , $332.37 , $24.27 ,57%,8%,
+ODFL,"Old Dominion Freight Line, Inc.","OLD DOMINION FREIGHT LINE, INC. (XNAS:ODFL)",306.19,4.26, $194.45 , $373.58 , $67.39 ,57%,22%,
+FTNT,"Fortinet, Inc.","FORTINET, INC. (XNAS:FTNT)",302.18,4.94, $145.53 , $371.77 , $69.59 ,108%,23%,
+ABMD,"Abiomed, Inc.","ABIOMED, INC. (XNAS:ABMD)",301.35,5.48, $261.27 , $379.30 , $77.95 ,15%,26%,
+SAIA,"Saia, Inc.","SAIA, INC. (XNAS:SAIA)",299.72,15.44, $175.24 , $365.50 , $65.78 ,71%,22%,
+LAD,"Lithia Motors, Inc.","LITHIA MOTORS, INC. (XNYS:LAD)",295.93,3.8, $274.03 , $417.98 , $122.05 ,8%,41%,
+SHW,The Sherwin-Williams Company,THE SHERWIN-WILLIAMS COMPANY (XNYS:SHW),293.09,6.58, $218.06 , $354.15 , $61.06 ,34%,21%,
+GNRC,Generac Holdings Inc.,GENERAC HOLDINGS INC. (XNYS:GNRC),288.02,5.64, $248.07 , $524.31 , $236.29 ,16%,82%,
+SNOW,Snowflake Inc.,SNOWFLAKE INC. (XNYS:SNOW),283.76,7.86, $184.71 , $405.00 , $121.24 ,54%,43%,
+ARGX,argenx SE,argenx SE (XNAS:ARGX),280.67,11.41, $248.21 , $382.15 , $101.48 ,13%,36%,
+ZS,"Zscaler, Inc.","ZSCALER, INC. (XNAS:ZS)",261.09,3.98, $157.03 , $376.11 , $115.02 ,66%,44%,
+DDS,"Dillard's, Inc.","DILLARD'S, INC. (XNYS:DDS)",258.67,4.95, $69.34 , $400.16 , $141.49 ,273%,55%,
+GLOB,Globant S.A.,Globant SA (XNYS:GLOB),258.67,3.49, $191.92 , $354.62 , $95.95 ,35%,37%,
+BGNE,"BeiGene, Ltd.","BEIGENE, LTD. (XNAS:BGNE)",254.44,11.86, $194.50 , $426.56 , $172.12 ,31%,68%,
+FDX,FedEx Corporation,FEDEX CORPORATION (XNYS:FDX),252,6.14, $216.34 , $319.90 , $67.90 ,16%,27%,
+LLY,Eli Lilly and Company,ELI LILLY AND COMPANY (XNYS:LLY),248.28,2.89, $178.58 , $283.91 , $35.63 ,39%,14%,
+NVDA,NVIDIA Corporation,NVIDIA CORPORATION (XNAS:NVDA),246.38,1.52, $115.67 , $346.47 , $100.09 ,113%,41%,
+SEDG,"SolarEdge Technologies, Inc.","SOLAREDGE TECHNOLOGIES, INC. (XNAS:SEDG)",242.23,4.01, $199.33 , $389.71 , $147.48 ,22%,61%,
+SITM,SiTime Corporation,SITIME CORPORATION (XNAS:SITM),236.25,3.16, $75.81 , $341.77 , $105.52 ,212%,45%,
+RACE,Ferrari N.V.,Ferrari NV (XNYS:RACE),235.49,4.53, $183.82 , $278.78 , $43.29 ,28%,18%,
+AAP,"Advance Auto Parts, Inc.","ADVANCE AUTO PARTS, INC. (XNYS:AAP)",234.8,3.29, $150.03 , $244.55 , $9.75 ,57%,4%,
+V,Visa Inc.,VISA INC. (XNYS:V),232.36,6.19, $190.10 , $252.67 , $20.31 ,22%,9%,
+V,Visa Inc.,VISA INC. (XNYS:V),232.36,6.19, $190.10 , $252.67 , $20.31 ,22%,9%,
+RMD,ResMed Inc.,RESMED INC. (XNYS:RMD),232.16,3.56, $179.37 , $301.34 , $69.18 ,29%,30%,
+UPS,"United Parcel Service, Inc.","UNITED PARCEL SERVICE, INC. (XNYS:UPS)",230.69,28.48, $154.91 , $233.72 , $3.03 ,49%,1%,
+UPS,"United Parcel Service, Inc.","UNITED PARCEL SERVICE, INC. (XNYS:UPS)",230.69,28.48, $154.91 , $233.72 , $3.03 ,49%,1%,
+BIIB,Biogen Inc.,BIOGEN INC. (XNAS:BIIB),229.37,3.37, $214.88 , $468.55 , $239.18 ,7%,104%,
+CMI,Cummins Inc.,CUMMINS INC. (XNYS:CMI),225.53,4.65, $203.38 , $277.09 , $51.56 ,11%,23%,
+ALB,Albemarle Corporation,ALBEMARLE CORPORATION (XNYS:ALB),225.2,4.46, $133.82 , $291.48 , $66.28 ,68%,29%,
+PXD,Pioneer Natural Resources Company,PIONEER NATURAL RESOURCES COMPANY (XNYS:PXD),224.22,5.33, $119.07 , $224.69 , $0.47 ,88%,0%,
+MNDY,monday.com Ltd.,MONDAY.COM LTD (XNAS:MNDY),216.31,6.99, $155.01 , $450.00 , $233.69 ,40%,108%,
+SYNA,Synaptics Incorporated,SYNAPTICS INCORPORATED (XNAS:SYNA),214.37,4.02, $100.71 , $299.39 , $85.02 ,113%,40%,
+TWLO,Twilio Inc.,TWILIO INC. (XNYS:TWLO),210.57,4.45, $172.61 , $457.30 , $246.73 ,22%,117%,
+PNC,"The PNC Financial Services Group, Inc.","THE PNC FINANCIAL SERVICES GROUP, INC. (XNYS:PNC)",209.74,3.75, $143.69 , $228.14 , $18.40 ,46%,9%,
+BA,The Boeing Company,THE BOEING COMPANY (XNYS:BA),208.34,8.1, $183.77 , $278.57 , $70.23 ,13%,34%,
+BA,The Boeing Company,THE BOEING COMPANY (XNYS:BA),208.34,8.1, $183.77 , $278.57 , $70.23 ,13%,34%,
+PCTY,Paylocity Holding Corporation,PAYLOCITY HOLDING CORPORATION (XNAS:PCTY),208.18,4.2, $154.26 , $314.50 , $106.32 ,35%,51%,
+CAT,Caterpillar Inc.,CATERPILLAR INC. (XNYS:CAT),205.35,3.79, $182.02 , $246.69 , $41.34 ,13%,20%,
+SPOT,Spotify Technology S.A.,Spotify Technology SA (XNYS:SPOT),203.62,7.36, $164.41 , $387.44 , $183.82 ,24%,90%,
+RGEN,Repligen Corporation,REPLIGEN CORPORATION (XNAS:RGEN),202.89,4.55, $162.29 , $327.32 , $124.43 ,25%,61%,
+OKTA,"Okta, Inc.","OKTA, INC. (XNAS:OKTA)",201.42,3.53, $171.86 , $294.00 , $92.58 ,17%,46%,
+XLNX,"Xilinx, Inc.","XILINX, INC. (XNAS:XLNX)",198.32,4.77, $111.84 , $239.79 , $41.47 ,77%,21%,
+XLNX,"Xilinx, Inc.","XILINX, INC. (XNAS:XLNX)",198.32,4.77, $111.84 , $239.79 , $41.47 ,77%,21%,
+COIN,"Coinbase Global, Inc.","COINBASE GLOBAL, INC. (XNAS:COIN)",197.73,7.58, $162.20 , $429.54 , $231.81 ,22%,117%,
+COIN,"Coinbase Global, Inc.","COINBASE GLOBAL, INC. (XNAS:COIN)",197.73,7.58, $162.20 , $429.54 , $231.81 ,22%,117%,
+BILL,"Bill.com Holdings, Inc.",Bill.com Holdings Inc (XNYS:BILL),193.73,5.52, $123.01 , $348.50 , $154.77 ,57%,80%,
+EXPE,"Expedia Group, Inc.","EXPEDIA GROUP, INC. (XNAS:EXPE)",188.06,4.77, $125.65 , $191.85 , $3.79 ,50%,2%,
+CCMP,"CMC Materials, Inc.","CMC MATERIALS, INC. (XNAS:CCMP)",185.76,4.88, $119.19 , $198.61 , $12.85 ,56%,7%,
+SITE,"SiteOne Landscape Supply, Inc.","SITEONE LANDSCAPE SUPPLY, INC. (XNYS:SITE)",184.44,4.32, $147.60 , $260.00 , $75.56 ,25%,41%,
+AXP,American Express Company,AMERICAN EXPRESS COMPANY (XNYS:AXP),183.54,3.72, $117.00 , $189.03 , $5.49 ,57%,3%,
+BNTX,BioNTech SE,BioNTech SE (XNAS:BNTX),179.6,7.52, $90.29 , $464.00 , $284.40 ,99%,158%,
+CAR,"Avis Budget Group, Inc.","AVIS BUDGET GROUP, INC. (XNAS:CAR)",178.99,2.81, $40.20 , $545.11 , $366.12 ,345%,205%,
+LPLA,LPL Financial Holdings Inc.,LPL FINANCIAL HOLDINGS INC. (XNAS:LPLA),177.36,5.04, $109.51 , $181.92 , $4.56 ,62%,3%,
+QCOM,QUALCOMM Incorporated,QUALCOMM INCORPORATED (XNAS:QCOM),177.13,1.37, $122.17 , $193.58 , $16.45 ,45%,9%,
+FRC,First Republic Bank,FIRST REPUBLIC BANK (XNYS:FRC),176.77,3.18, $144.96 , $222.86 , $46.09 ,22%,26%,
+PYPL,"PayPal Holdings, Inc.","PAYPAL HOLDINGS, INC. (XNAS:PYPL)",175.8,3.86, $152.08 , $310.16 , $134.36 ,16%,76%,
+PYPL,"PayPal Holdings, Inc.","PAYPAL HOLDINGS, INC. (XNAS:PYPL)",175.8,3.86, $152.08 , $310.16 , $134.36 ,16%,76%,
+MTB,M&T Bank Corporation,M&T BANK CORPORATION (XNYS:MTB),172.85,3.47, $128.46 , $186.93 , $14.08 ,35%,8%,
+MRNA,"Moderna, Inc.","MODERNA, INC. (XNAS:MRNA)",172.74,3.41, $117.34 , $497.49 , $324.75 ,47%,188%,
+MRNA,"Moderna, Inc.","MODERNA, INC. (XNAS:MRNA)",172.74,3.41, $117.34 , $497.49 , $324.75 ,47%,188%,
+FIVE,"Five Below, Inc.","FIVE BELOW, INC. (XNAS:FIVE)",170.74,6.74, $151.01 , $237.86 , $67.12 ,13%,39%,
+LEA,Lear Corporation,LEAR CORPORATION (XNYS:LEA),170.72,3.4, $144.78 , $204.91 , $34.19 ,18%,20%,
+NXST,"Nexstar Media Group, Inc.","NEXSTAR MEDIA GROUP, INC. (XNAS:NXST)",169.26,3.88, $113.87 , $171.61 , $2.35 ,49%,1%,
+ABG,"Asbury Automotive Group, Inc.","ASBURY AUTOMOTIVE GROUP, INC. (XNYS:ABG)",168.18,7.21, $137.96 , $230.97 , $62.79 ,22%,37%,
+VAC,Marriott Vacations Worldwide Corporation,MARRIOTT VACATIONS WORLDWIDE CORPORATION (XNYS:VAC),165.83,3.45, $123.30 , $190.97 , $25.14 ,34%,15%,
+WEX,WEX Inc.,WEX INC. (XNYS:WEX),165.28,4.3, $123.01 , $234.64 , $69.36 ,34%,42%,
+WSM,"Williams-Sonoma, Inc.","WILLIAMS-SONOMA, INC. (XNYS:WSM)",164.8,4.26, $118.07 , $223.32 , $58.52 ,40%,36%,
+HRI,Herc Holdings Inc.,HERC HOLDINGS INC. (XNYS:HRI),164.32,3.87, $64.32 , $203.14 , $38.82 ,155%,24%,
+RRX,Regal Rexnord Corporation,Regal Rexnord Corporation (XNYS:RRX),163.59,5.11, $119.20 , $176.91 , $13.32 ,37%,8%,
+W,Wayfair Inc.,WAYFAIR INC. (XNYS:W),162.55,6.63, $129.50 , $355.96 , $193.41 ,26%,119%,
+SE,Sea Limited,SEA LIMITED (XNYS:SE),158.94,8.63, $119.41 , $372.70 , $213.76 ,33%,134%,
+SE,Sea Limited,SEA LIMITED (XNYS:SE),158.94,8.63, $119.41 , $372.70 , $213.76 ,33%,134%,
+RS,Reliance Steel & Aluminum Co.,RELIANCE STEEL & ALUMINUM CO. (XNYS:RS),158.46,5.58, $116.19 , $181.21 , $22.75 ,36%,14%,
+ABNB,"Airbnb, Inc.","AIRBNB, INC. (XNAS:ABNB)",156.94,2.97, $129.71 , $219.94 , $63.00 ,21%,40%,
+WTS,"Watts Water Technologies, Inc.","WATTS WATER TECHNOLOGIES, INC. (XNYS:WTS)",156.65,3.44, $113.44 , $212.00 , $55.35 ,38%,35%,
+WING,Wingstop Inc.,WINGSTOP INC. (XNAS:WING),156.55,3.3, $112.49 , $187.35 , $30.80 ,39%,20%,
+SWAV,"ShockWave Medical, Inc.","SHOCKWAVE MEDICAL, INC. (XNAS:SWAV)",155.03,10.06, $91.47 , $249.73 , $94.70 ,69%,61%,
+JPM,JPMorgan Chase & Co.,JPMORGAN CHASE & CO. (XNYS:JPM),151.15,2.55, $128.48 , $172.96 , $21.81 ,18%,14%,
+COF,Capital One Financial Corporation,CAPITAL ONE FINANCIAL CORPORATION (XNYS:COF),150.49,3.76, $102.19 , $177.95 , $27.46 ,47%,18%,
+ALNY,"Alnylam Pharmaceuticals, Inc.","ALNYLAM PHARMACEUTICALS, INC. (XNAS:ALNY)",144.93,7.33, $125.00 , $212.00 , $67.07 ,16%,46%,
+DIS,The Walt Disney Company,THE WALT DISNEY COMPANY (XNYS:DIS),144.49,1.52, $129.26 , $203.02 , $58.53 ,12%,41%,
+AXON,"Axon Enterprise, Inc.","AXON ENTERPRISE, INC. (XNAS:AXON)",144,4.07, $121.09 , $212.37 , $68.37 ,19%,47%,
+OAS,Oasis Petroleum Inc.,OASIS PETROLEUM INC. (XNAS:OAS),141.32,5.89, $36.13 , $144.10 , $2.78 ,291%,2%,
+WMT,Walmart Inc.,WALMART INC. (XNYS:WMT),140.91,1.1, $126.28 , $152.57 , $11.66 ,12%,8%,
+APTV,Aptiv PLC,APTIV PLC (XNYS:APTV),139.99,3.41, $127.63 , $180.81 , $40.82 ,10%,29%,
+SGEN,Seagen Inc.,SEAGEN INC. (XNAS:SGEN),137.75,3.24, $120.99 , $199.00 , $61.25 ,14%,44%,
+IBM,International Business Machines Corporation,INTERNATIONAL BUSINESS MACHINES CORPORATION (XNYS:IBM),135.53,1.96, $112.82 , $145.99 , $10.46 ,20%,8%,
+BX,Blackstone Inc.,Blackstone Inc (XNYS:BX),134.95,2.98, $63.71 , $149.78 , $14.83 ,112%,11%,
+BX,Blackstone Inc.,Blackstone Inc (XNYS:BX),134.95,2.98, $63.71 , $149.78 , $14.83 ,112%,11%,
+CVX,Chevron Corporation,CHEVRON CORPORATION (XNYS:CVX),134.79,3.46, $84.57 , $137.00 , $2.21 ,59%,2%,
+CVX,Chevron Corporation,CHEVRON CORPORATION (XNYS:CVX),134.79,3.46, $84.57 , $137.00 , $2.21 ,59%,2%,
+DLTR,"Dollar Tree, Inc.","DOLLAR TREE, INC. (XNAS:DLTR)",134.24,3.02, $84.26 , $149.37 , $15.13 ,59%,11%,
+FANG,"Diamondback Energy, Inc.","DIAMONDBACK ENERGY, INC. (XNAS:FANG)",130.21,4.05, $56.35 , $134.06 , $3.85 ,131%,3%,
+ENTG,"Entegris, Inc.","ENTEGRIS, INC. (XNAS:ENTG)",128.44,8.7, $93.50 , $158.00 , $29.56 ,37%,23%,
+SQ,"Block, Inc.","BLOCK, INC. (XNYS:SQ)",127.61,5.32, $101.75 , $289.23 , $161.62 ,25%,127%,
+SQ,"Block, Inc.","BLOCK, INC. (XNYS:SQ)",127.61,5.32, $101.75 , $289.23 , $161.62 ,25%,127%,
+BABA,Alibaba Group Holding Limited,Alibaba Group Holding Limited (XNYS:BABA),127.22,1.43, $108.70 , $274.29 , $147.07 ,17%,116%,
+GTLS,"Chart Industries, Inc.","CHART INDUSTRIES, INC. (XNYS:GTLS)",125.13,3.26, $108.29 , $206.29 , $81.16 ,16%,65%,
+DAVA,Endava plc,ENDAVA PLC (XNYS:DAVA),124.46,2.84, $79.02 , $172.41 , $47.95 ,58%,39%,
+MRTX,"Mirati Therapeutics, Inc.","MIRATI THERAPEUTICS, INC. (XNAS:MRTX)",123.02,3.72, $106.14 , $214.43 , $91.41 ,16%,74%,
+UPST,"Upstart Holdings, Inc.",Upstart Holdings Inc (XNAS:UPST),117.33,8.32, $42.51 , $401.49 , $284.16 ,176%,242%,
+UPST,"Upstart Holdings, Inc.",Upstart Holdings Inc (XNAS:UPST),117.33,8.32, $42.51 , $401.49 , $284.16 ,176%,242%,
+AMD,"Advanced Micro Devices, Inc.","ADVANCED MICRO DEVICES, INC. (XNAS:AMD)",116.78,2.53, $72.50 , $164.46 , $47.68 ,61%,41%,
+RYAAY,Ryanair Holdings plc,RYANAIR HOLDINGS PUBLIC LIMITED COMPANY (XNAS:RYAAY),116,4.38, $95.06 , $127.25 , $11.25 ,22%,10%,
+BXP,"Boston Properties, Inc.","BOSTON PROPERTIES, INC. (XNYS:BXP)",115.48,3.4, $88.88 , $128.00 , $12.52 ,30%,11%,
+LNG,"Cheniere Energy, Inc.","CHENIERE ENERGY, INC. (XNYS:LNG)",115.05,3.15, $61.56 , $115.74 , $0.69 ,87%,1%,
+GME,GameStop Corp.,GAMESTOP CORP. (XNYS:GME),112.6,3.67, $38.50 , $348.50 , $235.90 ,192%,210%,
+SI,Silvergate Capital Corporation,SILVERGATE CAPITAL CORPORATION (XNYS:SI),110.88,3.14, $80.78 , $239.26 , $128.38 ,37%,116%,
+KRNT,Kornit Digital Ltd.,KORNIT DIGITAL LTD (XNAS:KRNT),109.55,4.49, $84.21 , $181.38 , $71.83 ,30%,66%,
+MAN,ManpowerGroup Inc.,MANPOWERGROUP INC. (XNYS:MAN),109.1,4.23, $85.97 , $125.07 , $15.97 ,27%,15%,
+RJF,"Raymond James Financial, Inc.","RAYMOND JAMES FINANCIAL, INC. (XNYS:RJF)",109.08,3.21, $66.98 , $110.36 , $1.28 ,63%,1%,
+FISV,"Fiserv, Inc.","FISERV, INC. (XNAS:FISV)",108.66,2.96, $92.06 , $127.34 , $18.68 ,18%,17%,
+NUE,Nucor Corporation,NUCOR CORPORATION (XNYS:NUE),107.46,6.06, $48.06 , $128.81 , $21.35 ,124%,20%,
+MS,Morgan Stanley,MORGAN STANLEY (XNYS:MS),103.95,1.41, $67.27 , $106.47 , $2.52 ,55%,2%,
+ARCH,"Arch Resources, Inc.","ARCH RESOURCES, INC. (XNYS:ARCH)",103.26,8.62, $39.02 , $105.58 , $2.32 ,165%,2%,
+NET,"Cloudflare, Inc.","CLOUDFLARE, INC. (XNYS:NET)",102.43,6.03, $60.96 , $221.64 , $119.21 ,68%,116%,
+NET,"Cloudflare, Inc.","CLOUDFLARE, INC. (XNYS:NET)",102.43,6.03, $60.96 , $221.64 , $119.21 ,68%,116%,
+UMBF,UMB Financial Corporation,UMB Financial Corporation (XNAS:UMBF),101.88,3.43, $70.97 , $112.24 , $10.36 ,44%,10%,
+WLK,Westlake Chemical Corporation,WESTLAKE CHEMICAL CORPORATION (XNYS:WLK),101.69,3.04, $77.66 , $109.01 , $7.32 ,31%,7%,
+TFII,TFI International Inc.,TFI International Inc. (XNYS:TFII),100.2,3.9, $66.64 , $120.50 , $20.30 ,50%,20%,
+NTLA,"Intellia Therapeutics, Inc.","INTELLIA THERAPEUTICS, INC. (XNAS:NTLA)",99.8,5.23, $43.86 , $202.73 , $102.93 ,128%,103%," $7,427,057,118 "
+TXG,"10x Genomics, Inc.","10X GENOMICS, INC. (XNAS:TXG)",99.46,3.19, $81.54 , $208.99 , $109.53 ,22%,110%," $11,110,427,950 "
+GE,General Electric Company,GENERAL ELECTRIC COMPANY (XNYS:GE),97.95,3.47, $85.12 , $116.17 , $18.22 ,15%,19%," $107,562,519,150 "
+GE,General Electric Company,GENERAL ELECTRIC COMPANY (XNYS:GE),97.95,3.47, $85.12 , $116.17 , $18.22 ,15%,19%," $107,562,519,150 "
+WOLF,"Wolfspeed, Inc.","Wolfspeed, Inc. (XNYS:WOLF)",97.45,3.21, $75.06 , $142.33 , $44.88 ,30%,46%," $12,042,393,495 "
+DAC,Danaos Corporation,DANAOS CORPORATION (XNYS:DAC),95.86,4.36, $26.01 , $97.04 , $1.18 ,269%,1%," $1,974,809,678 "
+TREX,"Trex Company, Inc.","TREX COMPANY, INC. (XNYS:TREX)",95.61,4.14, $81.76 , $140.98 , $45.37 ,17%,47%," $11,006,345,931 "
+NVAX,"Novavax, Inc.","NOVAVAX, INC. (XNAS:NVAX)",95.18,1.48, $66.38 , $331.68 , $236.50 ,43%,248%," $7,196,376,102 "
+ARCB,ArcBest Corporation,ARCBEST CORPORATION (XNAS:ARCB),93.63,5.19, $45.94 , $125.00 , $31.37 ,104%,34%," $2,393,963,674 "
+BPOP,"Popular, Inc.",Popular Inc (XNAS:BPOP),92.22,3.05, $57.10 , $99.49 , $7.27 ,62%,8%," $7,364,432,828 "
+COP,ConocoPhillips,CONOCOPHILLIPS (XNYS:COP),91.54,2.92, $39.70 , $91.89 , $0.34 ,131%,0%," $120,736,408,380 "
+COP,ConocoPhillips,CONOCOPHILLIPS (XNYS:COP),91.54,2.92, $39.70 , $91.89 , $0.34 ,131%,0%," $120,736,408,380 "
+SCHW,The Charles Schwab Corporation,THE CHARLES SCHWAB CORPORATION (XNYS:SCHW),90.06,2.36, $51.97 , $95.62 , $5.56 ,73%,6%," $170,267,436,000 "
+FVRR,Fiverr International Ltd.,FIVERR INTERNATIONAL LTD (XNYS:FVRR),89.41,4.1, $68.00 , $336.00 , $246.59 ,31%,276%," $3,267,610,047 "
+PSX,Phillips 66,PHILLIPS 66 (XNYS:PSX),87.66,2.87, $63.19 , $94.34 , $6.68 ,39%,8%," $38,410,008,498 "
+VLO,Valero Energy Corporation,VALERO ENERGY CORPORATION (XNYS:VLO),86.55,3.58, $54.84 , $86.83 , $0.28 ,58%,0%," $35,388,809,536 "
+VLO,Valero Energy Corporation,VALERO ENERGY CORPORATION (XNYS:VLO),86.55,3.58, $54.84 , $86.83 , $0.28 ,58%,0%," $35,388,809,536 "
+DWAC,Digital World Acquisition Corp.,DIGITAL WORLD ACQUISITION CORP. (XNAS:DWAC),83.25,10.18, $9.84 , $175.00 , $91.75 ,746%,110%," $3,098,126,272 "
+DWAC,Digital World Acquisition Corp.,DIGITAL WORLD ACQUISITION CORP. (XNAS:DWAC),83.25,10.18, $9.84 , $175.00 , $91.75 ,746%,110%," $3,098,126,272 "
+RCL,Royal Caribbean Cruises Ltd.,ROYAL CARIBBEAN CRUISES LTD. (XNYS:RCL),81.23,3.42, $64.20 , $99.24 , $18.01 ,27%,22%," $20,696,583,577 "
+XOM,Exxon Mobil Corporation,EXXON MOBIL CORPORATION (XNYS:XOM),80.83,4.87, $44.29 , $81.51 , $0.68 ,83%,1%," $342,453,234,630 "
+XOM,Exxon Mobil Corporation,EXXON MOBIL CORPORATION (XNYS:XOM),80.83,4.87, $44.29 , $81.51 , $0.68 ,83%,1%," $342,453,234,630 "
+CZR,"Caesars Entertainment, Inc.","CAESARS ENTERTAINMENT, INC. (XNAS:CZR)",80.8,4.66, $68.00 , $119.81 , $39.01 ,19%,48%," $16,276,760,000 "
+TDOC,"Teladoc Health, Inc.","Teladoc Health, Inc. (XNYS:TDOC)",80.34,3.63, $66.50 , $308.00 , $227.66 ,21%,283%," $12,861,365,478 "
+WLL,Whiting Petroleum Corporation,WHITING PETROLEUM CORPORATION (XNYS:WLL),78.17,3.92, $20.38 , $79.62 , $1.45 ,284%,2%," $3,059,076,638 "
+SF,Stifel Financial Corp.,STIFEL FINANCIAL CORP. (XNYS:SF),77.76,2.86, $51.37 , $78.60 , $0.84 ,51%,1%," $8,095,632,480 "
+BCC,Boise Cascade Company,BOISE CASCADE COMPANY (XNYS:BCC),75.92,5.7, $42.40 , $76.66 , $0.74 ,79%,1%," $2,985,208,479 "
+CF,"CF Industries Holdings, Inc.","CF INDUSTRIES HOLDINGS, INC. (XNYS:CF)",74.46,5.59, $41.88 , $74.77 , $0.31 ,78%,0%," $15,963,404,022 "
+CF,"CF Industries Holdings, Inc.","CF INDUSTRIES HOLDINGS, INC. (XNYS:CF)",74.46,5.59, $41.88 , $74.77 , $0.31 ,78%,0%," $15,963,404,022 "
+MPC,Marathon Petroleum Corporation,MARATHON PETROLEUM CORPORATION (XNYS:MPC),74.02,2.27, $42.32 , $75.88 , $1.86 ,75%,3%," $45,535,022,169 "
+AMR,"Alpha Metallurgical Resources, Inc.","ALPHA METALLURGICAL RESOURCES, INC. (XNYS:AMR)",73.63,10.4, $11.06 , $73.67 , $0.04 ,566%,0%," $1,354,824,397 "
+NTR,Nutrien Ltd.,Nutrien Ltd. (XNYS:NTR),73.11,3.31, $49.28 , $77.35 , $4.24 ,48%,6%," $50,452,000,000 "
+GH,"Guardant Health, Inc.","GUARDANT HEALTH, INC. (XNAS:GH)",72.96,3.41, $59.57 , $181.07 , $108.11 ,22%,148%," $7,070,199,000 "
+MRVL,"Marvell Technology, Inc.","MARVELL TECHNOLOGY, INC (XNAS:MRVL)",72.42,1.02, $37.92 , $93.85 , $21.43 ,91%,30%," $61,107,996,000 "
+NVCR,NovoCure Limited,NOVOCURE LIMITED (XNAS:NVCR),71.79,3.14, $59.57 , $232.76 , $160.97 ,21%,224%," $7,127,192,000 "
+HCP,"HashiCorp, Inc.","HASHICORP, INC. (XNAS:HCP)",71.75,5.36, $45.43 , $102.95 , $31.20 ,58%,43%," $11,876,350,000 "
+TTD,"The Trade Desk, Inc.","THE TRADE DESK, INC. (XNAS:TTD)",71.09,1.55, $46.71 , $114.09 , $43.00 ,52%,60%," $34,168,228,406 "
+DIN,"Dine Brands Global, Inc.","Dine Brands Global, Inc. (XNYS:DIN)",71.06,3.21, $61.38 , $100.70 , $29.64 ,16%,42%," $1,223,441,441 "
+CDLX,"Cardlytics, Inc.","CARDLYTICS, INC. (XNAS:CDLX)",70.06,2.96, $56.06 , $161.47 , $91.41 ,25%,130%," $2,330,836,649 "
+PATK,"Patrick Industries, Inc.","PATRICK INDUSTRIES, INC. (XNAS:PATK)",69.8,5.4, $60.21 , $98.83 , $29.03 ,16%,42%," $1,523,447,000 "
+RIVN,"Rivian Automotive, Inc.","RIVIAN AUTOMOTIVE, INC. (XNAS:RIVN)",69.62,3.88, $50.00 , $179.47 , $109.85 ,39%,158%," $62,680,097,388 "
+RIVN,"Rivian Automotive, Inc.","RIVIAN AUTOMOTIVE, INC. (XNAS:RIVN)",69.62,3.88, $50.00 , $179.47 , $109.85 ,39%,158%," $62,680,097,388 "
+CFLT,"Confluent, Inc.","CONFLUENT, INC. (XNAS:CFLT)",68.55,3.16, $37.71 , $94.97 , $26.42 ,82%,39%," $18,129,720,120 "
+RBLX,Roblox Corporation,ROBLOX CORPORATION (XNYS:RBLX),67.75,1.89, $53.63 , $141.60 , $73.85 ,26%,109%," $39,216,111,900 "
+APP,AppLovin Corporation,APPLOVIN CORPORATION (XNAS:APP),67.69,3.27, $49.41 , $116.09 , $48.40 ,37%,72%," $25,331,019,490 "
+GTLB,GitLab Inc.,Gitlab Inc. (XNAS:GTLB),67.56,3.55, $53.14 , $137.00 , $69.44 ,27%,103%," $9,782,688,000 "
+AFRM,"Affirm Holdings, Inc.",Affirm Holdings Inc (XNAS:AFRM),67.48,3.41, $46.50 , $176.65 , $109.17 ,45%,162%," $18,962,257,888 "
+AFRM,"Affirm Holdings, Inc.",Affirm Holdings Inc (XNAS:AFRM),67.48,3.41, $46.50 , $176.65 , $109.17 ,45%,162%," $18,962,257,888 "
+WGO,"Winnebago Industries, Inc.","WINNEBAGO INDUSTRIES, INC. (XNYS:WGO)",67.47,2.95, $59.33 , $87.53 , $20.06 ,14%,30%," $2,249,764,884 "
+C,Citigroup Inc.,CITIGROUP INC. (XNYS:C),66.56,1.44, $57.40 , $80.29 , $13.73 ,16%,21%," $132,072,811,520 "
+PCOR,"Procore Technologies, Inc.","PROCORE TECHNOLOGIES, INC. (XNYS:PCOR)",65.59,3.03, $56.00 , $108.75 , $43.16 ,17%,66%," $8,659,060,620 "
+BHP,BHP Group Limited,BHP GROUP LIMITED (XNYS:BHP),65.02,1.42, $51.88 , $82.07 , $17.05 ,25%,26%," $163,919,100,000 "
+NVEI,Nuvei Corporation,Nuvei Corp (XNAS:NVEI),64.48,3.48, $43.10 , $140.23 , $75.75 ,50%,117%," $11,029,140,000 "
+PDCE,"PDC Energy, Inc.","PDC ENERGY, INC. (XNAS:PDCE)",62.52,3.25, $21.80 , $62.63 , $0.11 ,187%,0%," $6,088,266,997 "
+TWST,Twist Bioscience Corporation,TWIST BIOSCIENCE CORPORATION (XNAS:TWST),62.35,2.93, $48.63 , $202.18 , $139.83 ,28%,224%," $3,163,298,569 "
+KOD,Kodiak Sciences Inc.,KODIAK SCIENCES INC. (XNAS:KOD),62.27,3.57, $49.34 , $171.21 , $108.94 ,26%,175%," $3,220,435,648 "
+CBT,Cabot Corporation,CABOT CORPORATION (XNYS:CBT),62.19,7.2, $44.08 , $65.25 , $3.06 ,41%,5%," $3,519,009,333 "
+DOW,Dow Inc.,Dow Inc. (XNYS:DOW),61.81,2.08, $51.33 , $71.38 , $9.57 ,20%,15%," $45,715,566,064 "
+SEAS,"SeaWorld Entertainment, Inc.","SEAWORLD ENTERTAINMENT, INC. (XNYS:SEAS)",61.12,1.54, $28.72 , $70.48 , $9.36 ,113%,15%," $4,722,920,870 "
+WBS,Webster Financial Corporation,WEBSTER FINANCIAL CORPORATION (XNYS:WBS),60.24,3.43, $45.60 , $65.00 , $4.76 ,32%,8%," $5,457,061,480 "
+USB,U.S. Bancorp,U.S. BANCORP (XNYS:USB),59.27,1.08, $42.47 , $63.57 , $4.30 ,40%,7%," $87,840,953,520 "
+BROS,Dutch Bros Inc.,Dutch Bros Inc (XNYS:BROS),58.41,6.26, $32.42 , $81.40 , $22.99 ,80%,39%," $9,554,614,344 "
+BROS,Dutch Bros Inc.,Dutch Bros Inc (XNYS:BROS),58.41,6.26, $32.42 , $81.40 , $22.99 ,80%,39%," $9,554,614,344 "
+AA,Alcoa Corporation,ALCOA CORPORATION (XNYS:AA),58.17,1.46, $17.78 , $64.37 , $6.20 ,227%,11%," $10,883,787,327 "
+FUN,"Cedar Fair, L.P.",CEDAR FAIR UNT (XNYS:FUN),56.25,6.52, $39.15 , $57.55 , $1.30 ,44%,2%,#FIELD!
+FUN,"Cedar Fair, L.P.",CEDAR FAIR UNT (XNYS:FUN),56.25,6.52, $39.15 , $57.55 , $1.30 ,44%,2%,#FIELD!
+WFC,Wells Fargo & Company,WELLS FARGO & COMPANY (XNYS:WFC),55.6,1.8, $29.68 , $58.87 , $3.27 ,87%,6%," $221,650,282,470 "
+CLR,"Continental Resources, Inc.","CONTINENTAL RESOURCES, INC. (XNYS:CLR)",54.94,3, $18.92 , $55.80 , $0.86 ,190%,2%," $20,085,014,646 "
+MLI,"Mueller Industries, Inc.","MUELLER INDUSTRIES, INC. (XNYS:MLI)",54.69,3.03, $34.06 , $63.07 , $8.38 ,61%,15%," $3,137,385,369 "
+GM,General Motors Company,GENERAL MOTORS COMPANY (XNYS:GM),54.07,1.34, $47.07 , $67.21 , $13.14 ,15%,24%," $78,502,070,200 "
+BRZE,"Braze, Inc.","Braze, Inc. (XNAS:BRZE)",54,3.98, $45.06 , $98.78 , $44.78 ,20%,83%," $4,973,918,940 "
+ZLAB,Zai Lab Limited,ZAI LAB LIMITED (XNAS:ZLAB),53.59,3.92, $39.75 , $187.46 , $133.87 ,35%,250%," $3,892,955,000 "
+CFG,"Citizens Financial Group, Inc.","CITIZENS FINANCIAL GROUP, INC. (XNYS:CFG)",52.95,1.48, $36.31 , $57.00 , $4.05 ,46%,8%," $22,567,268,820 "
+DVN,Devon Energy Corporation,DEVON ENERGY CORPORATION (XNYS:DVN),52.56,1.99, $15.45 , $54.26 , $1.70 ,240%,3%," $35,583,120,000 "
+Z,"Zillow Group, Inc.","ZILLOW GROUP, INC. (XNAS:Z)",51.4,0.92, $44.80 , $208.11 , $156.71 ,15%,305%," $12,758,830,000 "
+NUS,"Nu Skin Enterprises, Inc.","NU SKIN ENTERPRISES, INC. (XNYS:NUS)",51.06,2.87, $39.40 , $63.85 , $12.79 ,30%,25%," $2,543,978,208 "
+DOCS,"Doximity, Inc.","DOXIMITY, INC. (XNYS:DOCS)",49.16,3.59, $39.92 , $107.79 , $58.63 ,23%,119%," $9,218,045,676 "
+GDS,GDS Holdings Limited,GDS HOLDINGS LIMITED (XNAS:GDS),47.15,3.27, $34.95 , $116.76 , $69.61 ,35%,148%," $7,042,419,000 "
+BAC,Bank of America Corporation,BANK OF AMERICA CORPORATION (XNYS:BAC),46.94,0.8, $29.57 , $50.08 , $3.14 ,59%,7%," $384,160,902,960 "
+FITB,Fifth Third Bancorp,FIFTH THIRD BANCORP (XNAS:FITB),45.94,1.31, $28.94 , $50.64 , $4.70 ,59%,10%," $31,411,810,362 "
+LVS,Las Vegas Sands Corp.,LAS VEGAS SANDS CORP. (XNYS:LVS),44.65,0.85, $33.75 , $66.77 , $22.12 ,32%,50%," $34,119,780,001 "
+UAL,"United Airlines Holdings, Inc.","UNITED AIRLINES HOLDINGS, INC. (XNAS:UAL)",43.96,1.08, $38.79 , $63.70 , $19.74 ,13%,45%," $14,234,533,740 "
+MOS,The Mosaic Company,THE MOSAIC COMPANY (XNYS:MOS),43.59,3.64, $26.10 , $44.06 , $0.47 ,67%,1%," $16,518,103,575 "
+MOS,The Mosaic Company,THE MOSAIC COMPANY (XNYS:MOS),43.59,3.64, $26.10 , $44.06 , $0.47 ,67%,1%," $16,518,103,575 "
+BSX,Boston Scientific Corporation,BOSTON SCIENTIFIC CORPORATION (XNYS:BSX),43.5,0.6, $35.22 , $46.29 , $2.79 ,24%,6%," $61,132,180,000 "
+DAL,"Delta Air Lines, Inc.","DELTA AIR LINES, INC. (XNYS:DAL)",40.49,0.8, $33.40 , $52.28 , $11.79 ,21%,29%," $25,920,558,900 "
+OXY,Occidental Petroleum Corporation,OCCIDENTAL PETROLEUM CORPORATION (XNYS:OXY),39.29,1.62, $19.80 , $39.55 , $0.26 ,98%,1%," $36,686,773,680 "
+FCX,Freeport-McMoRan Inc.,FREEPORT-MCMORAN INC. (XNYS:FCX),39.02,1.8, $27.42 , $46.20 , $7.18 ,42%,18%," $57,299,855,480 "
+UBER,"Uber Technologies, Inc.","UBER TECHNOLOGIES, INC. (XNYS:UBER)",38.61,1.21, $32.81 , $64.05 , $25.44 ,18%,66%," $74,907,955,980 "
+GLBE,Global-e Online Ltd.,GLOBAL-E ONLINE LTD (XNAS:GLBE),38.53,2.82, $24.22 , $83.77 , $45.24 ,59%,117%," $5,611,551,583 "
+TWTR,"Twitter, Inc.","TWITTER, INC. (XNYS:TWTR)",38.12,0.61, $32.05 , $80.75 , $42.63 ,19%,112%," $30,481,129,387 "
+HPQ,HP Inc.,HP INC. (XNYS:HPQ),37.46,0.73, $24.10 , $39.65 , $2.19 ,55%,6%," $39,768,400,000 "
+XPEV,XPeng Inc.,XPENG INC. (XNYS:XPEV),36.4,1.31, $22.73 , $56.45 , $20.05 ,60%,55%," $30,050,330,000 "
+APA,APA Corporation,APA CORPORATION (XNAS:APA),34.71,1.5, $14.57 , $34.99 , $0.28 ,138%,1%," $12,609,250,953 "
+SNAP,Snap Inc.,SNAP INC. (XNYS:SNAP),33.66,1.12, $28.02 , $83.34 , $49.68 ,20%,148%," $54,234,060,930 "
+TECK,Teck Resources Limited,Teck Resources Limited (XNYS:TECK),32.49,1.62, $17.31 , $35.37 , $2.88 ,88%,9%," $20,931,680,000 "
+BP,BP p.l.c.,BP P.L.C. (XNYS:BP),31.76,0.84, $20.43 , $32.64 , $0.88 ,55%,3%," $100,891,100,000 "
+HAL,Halliburton Company,HALLIBURTON COMPANY (XNYS:HAL),31.37,0.63, $17.57 , $32.13 , $0.76 ,79%,2%," $28,079,792,057 "
+SU,Suncor Energy Inc.,SUNCOR ENERGY INC. (XNYS:SU),29.9,1.33, $16.40 , $29.92 , $0.02 ,82%,0%," $52,688,000,000 "
+EQNR,Equinor ASA,Equinor ASA (XNYS:EQNR),28.2,0.65, $17.61 , $29.72 , $1.52 ,60%,5%," $89,118,880,000 "
+PTON,"Peloton Interactive, Inc.","PELOTON INTERACTIVE, INC. (XNAS:PTON)",28.02,0.69, $22.81 , $157.83 , $129.81 ,23%,463%," $9,155,369,682 "
+LI,Li Auto Inc.,American Lithium Corp. (XTSX:LI),27.29,1.2, $1.50 , $6.25 , $(21.04),1719%,-77%," $706,096,600 "
+M,"Macy's, Inc.","MACY'S, INC. (XNYS:M)",26.2,0.6, $13.56 , $37.95 , $11.75 ,93%,45%," $7,840,858,280 "
+TS,Tenaris S.A.,Tenaris SA (XNYS:TS),25.9,1.52, $15.48 , $25.91 , $0.01 ,67%,0%," $14,161,130,000 "
+TOST,"Toast, Inc.","TOAST, INC. (XNYS:TOST)",25.72,2.84, $18.72 , $69.93 , $44.21 ,37%,172%," $11,548,600,000 "
+TOST,"Toast, Inc.","TOAST, INC. (XNYS:TOST)",25.72,2.84, $18.72 , $69.93 , $44.21 ,37%,172%," $11,548,600,000 "
+MARA,"Marathon Digital Holdings, Inc.","MARATHON DIGITAL HOLDINGS, INC. (XNAS:MARA)",25.03,1.49, $18.32 , $83.45 , $58.42 ,37%,233%," $2,568,843,918 "
+DKNG,DraftKings Inc.,DRAFTKINGS INC. (XNAS:DKNG),23.68,1.59, $17.41 , $74.38 , $50.70 ,36%,214%," $18,931,378,560 "
+RF,Regions Financial Corporation,REGIONS FINANCIAL CORPORATION (XNYS:RF),23.6,0.66, $16.94 , $25.53 , $1.93 ,39%,8%," $22,497,469,360 "
+FTCH,Farfetch Limited,FARFETCH LIMITED (XNYS:FTCH),23.18,1.47, $18.33 , $73.87 , $50.69 ,26%,219%," $8,606,008,434 "
+PLUG,Plug Power Inc.,PLUG POWER INC. (XNAS:PLUG),22.9,1.03, $17.51 , $70.51 , $47.61 ,31%,208%," $13,198,547,820 "
+NCLH,Norwegian Cruise Line Holdings Ltd.,NORWEGIAN CRUISE LINE HOLDINGS LTD. (XNYS:NCLH),21.61,0.78, $17.78 , $34.49 , $12.88 ,22%,60%," $9,004,852,080 "
+X,United States Steel Corporation,X Financial (XNYS:XYF),21.58,0.86, $2.11 , $17.88 , $(3.70),923%,-17%," $169,495,700 "
+IOT,Samsara Inc.,SAMSARA INC. (XNYS:IOT),21.22,3.12, $14.55 , $31.41 , $10.19 ,46%,48%," $10,617,526,734 "
+CCL,Carnival Corporation & plc,Carnival Corp (XNYS:CCL),20.93,1.12, $16.32 , $31.52 , $10.59 ,28%,51%," $22,213,120,000 "
+MRO,Marathon Oil Corporation,MARATHON OIL CORPORATION (XNYS:MRO),20.65,1.18, $7.20 , $20.68 , $0.03 ,187%,0%," $16,069,001,616 "
+UBS,UBS Group AG,UBS Group AG (XNYS:UBS),20.4,1.73, $14.42 , $20.40 , $-   ,41%,0%," $63,052,940,000 "
+CCJ,Cameco Corporation,CAMECO CORPORATION (XNYS:CCJ),20.24,0.81, $12.49 , $28.49 , $8.25 ,62%,41%," $9,790,498,000 "
+CLF,Cleveland-Cliffs Inc.,CLEVELAND-CLIFFS INC. (XNYS:CLF),18.43,1.29, $12.77 , $26.51 , $8.08 ,44%,44%," $9,211,670,694 "
+QS,QuantumScape Corporation,QUANTUMSCAPE CORPORATION (XNYS:QS),17.54,0.85, $13.43 , $71.97 , $54.43 ,31%,310%," $7,409,720,380 "
+CLVT,Clarivate Plc,CLARIVATE Plc (XNYS:CLVT),17.49,1.03, $15.00 , $34.79 , $17.30 ,17%,99%," $12,010,155,629 "
+NOV,NOV Inc.,NOV INC. (XNYS:NOV),17.21,0.79, $11.46 , $18.02 , $0.81 ,50%,5%," $6,723,805,878 "
+AMC,"AMC Entertainment Holdings, Inc.","AMC ENTERTAINMENT HOLDINGS, INC. (XNYS:AMC)",16.86,0.8, $5.26 , $72.62 , $55.76 ,221%,331%," $8,665,379,088 "
+VALE,Vale S.A.,Vale SA (XNYS:VALE),16.18,1, $11.16 , $23.18 , $7.00 ,45%,43%," $77,330,160,000 "
+LAZR,"Luminar Technologies, Inc.","LUMINAR TECHNOLOGIES, INC. (XNAS:LAZR)",15.23,0.59, $11.52 , $40.15 , $24.92 ,32%,164%," $5,506,475,035 "
+CVE,Cenovus Energy Inc.,Cenovus Energy Inc. (XNYS:CVE),15.14,0.59, $5.94 , $15.35 , $0.21 ,155%,1%," $37,143,140,000 "
+SOFI,"SoFi Technologies, Inc.","SOFI TECHNOLOGIES, INC. (XNAS:SOFI)",13.27,0.79, $10.51 , $28.26 , $14.99 ,26%,113%," $10,707,783,282 "
+MQ,"Marqeta, Inc.","MARQETA, INC. (XNAS:MQ)",12.43,0.63, $9.77 , $37.90 , $25.47 ,27%,205%," $6,713,906,639 "
+OPEN,Opendoor Technologies Inc.,OPENDOOR TECHNOLOGIES INC. (XNAS:OPEN),10.71,0.78, $8.14 , $39.24 , $28.53 ,32%,266%," $6,561,082,017 "
+ARVL,Arrival,Arrival SA (XNAS:ARVL),4.5,0.59, $2.91 , $29.98 , $25.48 ,55%,566%," $2,864,571,300 "
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
