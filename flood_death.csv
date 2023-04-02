@@ -1,4 +1,4 @@
-ID,GlideNumber,Country,OtherCountry,long,lat,Area,Began,Ended,Numberofmonths,Validation,Dead,Displaced,MainCause,Severity
+ID,Glide Number,Country,Other Country,long,lat,Area,Began,Ended,Number of months,Validation,Number of Death,Displaced,Main Cause,Severity
 1,0,Algeria,0,5.23026,35.8142,92615.67,1/1/1985,1/5/1985,4,News,26,3000,Heavy rain,1
 2,0,Brazil,0,-45.3489,-18.7111,678498.82,1/15/1985,2/2/1985,18,News,229,80000,Heavy rain,2
 3,0,Phillipines,0,122.974,10.0207,12846.03,1/20/1985,1/21/1985,1,News,43,444,Torrential rain,1
